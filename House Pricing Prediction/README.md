@@ -16,8 +16,6 @@ Below list of task are covered in project
 9. Create a Linear Regression model on the basis of selected columns.
 10. Find training | testing error --> Overfitting or not
 11. Check for colinearity and multicolinearity
-12. Ridge, Lasso
-13. Create a Tuning grid
-14. GrisearchCv model to find best penalty value for Ridge | Lasso
-15. Using the best value, create a Ridge | Lasso Model 
-16. Check for overfitting.
+12. Create a Tuning grid
+13. GrisearchCv model to find best penalty value for Ridge | Lasso
+14. Check for overfitting.
