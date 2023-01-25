@@ -3,10 +3,8 @@ Below list of task are covered in project
 2. Drop unnecessary columns(Columns with no statitical importance)
 3. Missing Data treatment
 4. Exploratory Data Analysis <br>
-	4.1 Check for Skew in X columns<br>
-	4.2 Remove skew<br>
-	4.3 Correlation<br>
-	4.4 Drop cols from X having very minute or no correlation<br><br>
+	4.1 Correlation<br>
+	4.2 Drop cols from X having very minute or no correlation<br><br>
 5. Preprocessing	<br>
 	5.1 Standardization of con columns<br>
 	5.2 OHE of categorical columns<br><br>
